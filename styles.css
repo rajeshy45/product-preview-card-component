@@ -64,7 +64,7 @@ button:hover {
 }
 
 .img-col {
-    background-image: url("/images/image-product-desktop.jpg");
+    background-image: url("images/image-product-desktop.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     border-radius: 1.25rem 0 0 1.25rem; 
@@ -129,7 +129,7 @@ button:hover {
         width: 21.875rem;
         height: 14.0625rem;
         border-radius: 1.25rem 1.25rem 0 0;
-        background-image: url("/images/image-product-mobile.jpg");
+        background-image: url("images/image-product-mobile.jpg");
     }
 
     .text-col {
